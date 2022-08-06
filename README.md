@@ -8,7 +8,7 @@ This repository lists some awesome public object detection datasets.
   - [Summary](#summary)
     - [Awesome List](#awesome-list)
   - [General Detection Dataset](#general-detection-dataset)
-  - [Human Detection Dataset](#human-detection-dataset)
+  - [Person Detection Dataset](#person-detection-dataset)
   - [Autonomous Driving Dataset](#autonomous-driving-dataset)
   - [Adverse Weather Dataset](#adverse-weather-dataset)
   - [Optical Aerial Imagery Dataset](#optical-aerial-imagery-dataset)
@@ -38,7 +38,9 @@ This repository lists some awesome public object detection datasets.
   - [Objects365](http://www.objects365.org/overview.html) : "Objects365: A Large-scale, High-quality Dataset for Object Detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.html)**)
 
 
-- ## Human Detection Dataset
+- ## Person Detection Dataset
+
+  - [INRIA Person](http://lear.inrialpes.fr/data) : "Histograms of oriented gradients for human detection". (**[CVPR 2005](https://ieeexplore.ieee.org/abstract/document/1467360)**)
 
   - [CrowdHuman](http://www.crowdhuman.org/) : "CrowdHuman: A Benchmark for Detecting Human in a Crowd". (**[arXiv 2018](https://arxiv.org/abs/1805.00123)**)
 
@@ -47,7 +49,6 @@ This repository lists some awesome public object detection datasets.
   - [TinyPerson](https://github.com/ucas-vg/PointTinyBenchmark) : "Scale Match for Tiny Person Detection". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Yu_Scale_Match_for_Tiny_Person_Detection_WACV_2020_paper.html)**)
 
   - [TinyPerson v2 | SeaPerson](https://github.com/ucas-vg/PointTinyBenchmark) : "Object Localization Under Single Coarse Point Supervision". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Object_Localization_Under_Single_Coarse_Point_Supervision_CVPR_2022_paper.html)**)
-
 
 
 - ## Autonomous Driving Dataset

@@ -7,16 +7,15 @@ This repository lists some awesome public object detection datasets.
 - [Awesome-Object-Detection-Datasets](#awesome-object-detection-datasets)
   - [Summary](#summary)
     - [Awesome List](#awesome-list)
-  - [General Detection Dataset (通用检测数据集)](#general-detection-dataset)
-  - [Human Detection Dataset (人员检测数据集)](#human-detection-dataset)
-  - [Autonomous Driving Dataset (自动驾驶数据集)](#autonomous-driving-dataset)
-  - [Adverse Weather Dataset (恶劣天气数据集)](#adverse-weather-dataset)
-  - [Optical Aerial Imagery Dataset (光学航拍遥感数据集)](#optical-aerial-imagery-dataset)
-  - [Low-light Image Dataset (低光照图像数据集)](#low-light-image-dataset)
-  - [Thermal Image Dataset (热成像数据集)](#thermal-image-dataset)
-  - [Infrared Image Dataset (红外图像数据集)](#infrared-image-dataset)
-  - [SAR Image Dataset (合成孔径雷达图像数据集)](#sar-image-dataset)
-
+  - [General Detection Dataset](#general-detection-dataset)
+  - [Human Detection Dataset](#human-detection-dataset)
+  - [Autonomous Driving Dataset](#autonomous-driving-dataset)
+  - [Adverse Weather Dataset](#adverse-weather-dataset)
+  - [Optical Aerial Imagery Dataset](#optical-aerial-imagery-dataset)
+  - [Low-light Image Dataset](#low-light-image-dataset)
+  - [Thermal Image Dataset](#thermal-image-dataset)
+  - [Infrared Image Dataset](#infrared-image-dataset)
+  - [SAR Image Dataset](#sar-image-dataset)
 
 
 - ## Summary
@@ -29,7 +28,6 @@ This repository lists some awesome public object detection datasets.
 
 
 - ## General Detection Dataset
-  ### 通用检测数据集
 
   - [COCO](https://cocodataset.org/) : "Microsoft COCO: Common Objects in Context". (**[ECCV 2014](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48)**)
 
@@ -41,7 +39,6 @@ This repository lists some awesome public object detection datasets.
 
 
 - ## Human Detection Dataset
-  ### 人员检测数据集 
 
   - [CrowdHuman](http://www.crowdhuman.org/) : "CrowdHuman: A Benchmark for Detecting Human in a Crowd". (**[arXiv 2018](https://arxiv.org/abs/1805.00123)**)
 
@@ -54,7 +51,6 @@ This repository lists some awesome public object detection datasets.
 
 
 - ## Autonomous Driving Dataset
-  ### 自动驾驶数据集
 
   - [TT100K](http://cg.cs.tsinghua.edu.cn/traffic-sign/) : "Traffic-Sign Detection and Classification in the Wild". (**[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.html)**)
 
@@ -62,13 +58,11 @@ This repository lists some awesome public object detection datasets.
 
 
 - ## Adverse Weather Dataset
-  ### 恶劣天气数据集
 
   - [RESID](https://sites.google.com/site/boyilics/website-builder/reside) : "Benchmarking Single-Image Dehazing and Beyond". (**[IEEE Transactions on Image Processing 2018](https://ieeexplore.ieee.org/abstract/document/8451944)**)
 
 
 - ## Optical Aerial Imagery Dataset
-  ### 光学航拍遥感数据集
 
   - [VEDAI](https://downloads.greyc.fr/vedai/) : "Vehicle Detection in Aerial Imagery: A small target detection benchmark". (**[Journal of Visual Communication and Image Representation 2015](https://hal.archives-ouvertes.fr/hal-01122605v2/document)**)
 
@@ -107,7 +101,6 @@ This repository lists some awesome public object detection datasets.
 
 
 - ## Low-light Image Dataset
-  ### 低光照图像数据集
 
   - [NightOwls](https://www.nightowls-dataset.org/) : "NightOwls: A Pedestrians at Night Dataset". (**[ACCV 2018](https://link.springer.com/chapter/10.1007/978-3-030-20887-5_43)**).
 
@@ -117,7 +110,6 @@ This repository lists some awesome public object detection datasets.
 
 
 - ## Thermal Image Dataset
-  ### 热成像数据集
 
   - [FLIR_ADAS](https://adas-dataset-v2.flirconservator.com/) : Teledyne FLIR Free ADAS Thermal Dataset v2.
 
@@ -125,7 +117,6 @@ This repository lists some awesome public object detection datasets.
 
 
 - ## Infrared Image Dataset
-  ### 红外图像数据集
 
   - [地/空背景下红外图像弱小飞机目标检测跟踪数据集](https://www.scidb.cn/en/detail?dataSetId=720626420933459968) (**[中国科学数据 2020](http://www.csdata.org/p/387/)**)
 
@@ -145,7 +136,6 @@ This repository lists some awesome public object detection datasets.
 
 
 - ## SAR Image Dataset
-  ### 合成孔径雷达图像数据集
 
   - [OpenSARShip](https://opensar.sjtu.edu.cn/) : "OpenSARShip: A Dataset Dedicated to Sentinel-1 Ship Interpretation". (**[IEEE JSTAEORS 2017](https://ieeexplore.ieee.org/abstract/document/8067489)**)
 

@@ -1,7 +1,7 @@
 # Awesome-Object-Detection-Datasets
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository lists some awesome public object detection datasets.
+🔥🔥🔥 This repository lists some awesome public object detection datasets.
 
 ## Contents
 - [Awesome-Object-Detection-Datasets](#awesome-object-detection-datasets)
@@ -16,6 +16,9 @@ This repository lists some awesome public object detection datasets.
   - [Thermal Image Dataset](#thermal-image-dataset)
   - [Infrared Image Dataset](#infrared-image-dataset)
   - [SAR Image Dataset](#sar-image-dataset)
+  - [3D Object Detection Dataset](#3d-object-detection-dataset)
+  - [Super-Resolution Field Dataset](#super-resolution-field-dataset)
+
 
 
 - ## Summary
@@ -56,6 +59,11 @@ This repository lists some awesome public object detection datasets.
   - [TT100K](http://cg.cs.tsinghua.edu.cn/traffic-sign/) : "Traffic-Sign Detection and Classification in the Wild". (**[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.html)**)
 
   - [BDD100K](https://bdd-data.berkeley.edu/) : "BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.html)**)
+
+  - [CCTSDB](https://github.com/csust7zhangjm/CCTSDB) : CSUST Chinese Traffic Sign Detection Benchmark 中国交通数据集由长沙理工大学综合交通运输大数据智能处理湖南省重点实验室张建明老师团队制作完成。 "A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2". (**[Algorithms, 2017](https://www.mdpi.com/1999-4893/10/4/127)**)
+
+  - [CCTSDB2021](https://github.com/csust7zhangjm/CCTSDB2021) : "CCTSDB 2021: a more comprehensive traffic sign detection benchmark". (**[Human-centric Computing and Information Sciences, 2022](https://centaur.reading.ac.uk/106129/)**)
+
 
 
 - ## Adverse Weather Dataset
@@ -151,3 +159,15 @@ This repository lists some awesome public object detection datasets.
   - [Official-SSDD](https://github.com/TianwenZhang0825/Official-SSDD) : "SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis ". (**[Remote Sensing, 2021](https://www.mdpi.com/2072-4292/13/18/3690)**)
 
   - [MSAR](https://radars.ac.cn/web/data/getData?dataType=MSAR) : "大规模多类SAR目标检测数据集-1.0". (**[雷达学报 2022](https://radars.ac.cn/web/data/getData?dataType=MSAR)**)
+
+
+
+- ## 3D Object Detection Dataset
+
+  - [Objectron](https://github.com/google-research-datasets/Objectron/) : "Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations". (**[CVPR, 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Ahmadyan_Objectron_A_Large_Scale_Dataset_of_Object-Centric_Videos_in_the_CVPR_2021_paper.html?ref=https://githubhelp.com)**)
+
+
+- ## Super-Resolution Field Dataset
+
+  - [VideoLQ](https://github.com/ckkelvinchan/RealBasicVSR) : "Investigating Tradeoffs in Real-World Video Super-Resolution". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Chan_Investigating_Tradeoffs_in_Real-World_Video_Super-Resolution_CVPR_2022_paper.html)**)
+  

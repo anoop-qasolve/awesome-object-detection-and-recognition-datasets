@@ -76,7 +76,7 @@
 
   - ### License Plate Detection and Recognition Dataset
 
-    - [CCPD](https://bdd-data.berkeley.edu/) : "BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.html)**)
+    - [CCPD](https://github.com/detectRecog/CCPD) <img src="https://img.shields.io/github/stars/csust7zhangjm/CCTSDB2021?style=social"/> : "Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline". (**[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/html/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.html)**)
 
 
 

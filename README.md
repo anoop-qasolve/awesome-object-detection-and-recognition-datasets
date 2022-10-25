@@ -32,6 +32,8 @@
 
     - [ari-dasci/OD-WeaponDetection](https://github.com/ari-dasci/OD-WeaponDetection) <img src="https://img.shields.io/github/stars/ari-dasci/OD-WeaponDetection?style=social"/> : Datasets for weapon detection based on image classification and object detection tasks.
 
+    - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets. 
+
 
 - ## General Detection Dataset
 

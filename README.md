@@ -33,10 +33,23 @@
 
   - ### Awesome List
 
-    - [DLLXW/objectDetectionDatasets](https://github.com/DLLXW/objectDetectionDatasets) <img src="https://img.shields.io/github/stars/DLLXW/objectDetectionDatasets?style=social"/> : 目标检测数据集制作:VOC,COCO,YOLO等常用数据集格式的制作和互相转换脚本。
+    - [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
+
+    - [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) <img src="https://img.shields.io/github/stars/ZHOUYI1023/awesome-radar-perception?style=social"/> : A curated list of radar datasets, detection, tracking and fusion.
+
+    - [lartpang/awesome-segmentation-saliency-dataset](https://github.com/lartpang/awesome-segmentation-saliency-dataset) <img src="https://img.shields.io/github/stars/lartpang/awesome-segmentation-saliency-dataset?style=social"/> : A collection of some datasets for segmentation / saliency detection. Welcome to PR...😄
+
+    - [TianhaoFu/Awesome-3D-Object-Detection](https://github.com/TianhaoFu/Awesome-3D-Object-Detection) <img src="https://img.shields.io/github/stars/TianhaoFu/Awesome-3D-Object-Detection?style=social"/> : Papers, code and datasets about deep learning for 3D Object Detection. 
+
+    - [xahidbuffon/Awesome_Underwater_Datasets](https://github.com/xahidbuffon/Awesome_Underwater_Datasets) <img src="https://img.shields.io/github/stars/xahidbuffon/Awesome_Underwater_Datasets?style=social"/> : Pointers to large-scale underwater datasets and relevant resources.
+
+    - [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
+
+    - [ZhangXiwuu/Awesome_visual_place_recognition_datasets](https://github.com/ZhangXiwuu/Awesome_visual_place_recognition_datasets) <img src="https://img.shields.io/github/stars/ZhangXiwuu/Awesome_visual_place_recognition_datasets?style=social"/> : A curated list of Visual Place Recognition (VPR)/ loop closure detection (LCD) datasets.
 
     - [ari-dasci/OD-WeaponDetection](https://github.com/ari-dasci/OD-WeaponDetection) <img src="https://img.shields.io/github/stars/ari-dasci/OD-WeaponDetection?style=social"/> : Datasets for weapon detection based on image classification and object detection tasks.
 
+    - [DLLXW/objectDetectionDatasets](https://github.com/DLLXW/objectDetectionDatasets) <img src="https://img.shields.io/github/stars/DLLXW/objectDetectionDatasets?style=social"/> : 目标检测数据集制作:VOC,COCO,YOLO等常用数据集格式的制作和互相转换脚本。
 
 
   - ### Dataset Management Platform

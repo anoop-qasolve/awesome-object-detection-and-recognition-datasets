@@ -90,6 +90,9 @@
 
     - [BDD100K](https://bdd-data.berkeley.edu/) : "BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.html)**)
 
+    - [CODA](https://coda-dataset.github.io/) : "CODA: A Real-World Road Corner Case Dataset for Object Detection in Autonomous Driving". (**[ECCV 2022](https://link.springer.com/chapter/10.1007/978-3-031-19839-7_24)**)
+
+
 
   - ### Traffic Sign Detection Datasets
 

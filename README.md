@@ -7,7 +7,10 @@
 - [Awesome-Object-Detection-and-Recognition-Datasets](#awesome-object-detection-and-recognition-datasets)
   - [Summary](#summary)
     - [Awesome List](#awesome-list)
-    - [Datasets Management Platform](#datasets-management-platform)
+    - [Datasets Share Platform](#datasets-share-platform)
+    - [Tools](#tools)
+      - [Data Annotation](#data-annotation)
+      - [Data Augmentation](#data-augmentation)
   - [General Detection and Recognition Datasets](#general-detection-and-recognition-datasets)
     - [Object Detection Datasets](#object-detection-datasets)
     - [Objecgt Recognition Datasets](#objecgt-recognition-datasets)
@@ -27,6 +30,9 @@
   - [Face Detection and Recognition Datasets](#general-detection-and-recognition-datasets)
     - [Face Detection Datasets](#face-detection-datasets)
     - [Face Recognition Datasets](#face-recognition-datasets)
+  - [Blogs](#blogs)
+
+
 
 
 ## Summary
@@ -54,13 +60,82 @@
     - [sjinzh/awesome-object-detection-and-recognition-datasets](https://github.com/sjinzh/awesome-object-detection-and-recognition-datasets) <img src="https://img.shields.io/github/stars/sjinzh/awesome-object-detection-and-recognition-datasets?style=social"/> : A collection of some awesome public object detection and recognition datasets.
 
 
-  - ### Dataset Management Platform
+  - ### Datasets Share Platform
 
     - [Science Data Bank(ScienceDB)](https://www.scidb.cn/en) : Make your research data citable, discoverable and persistently accessible Satisfy flexible data sharing requirements Dedicate to facilitating data dissemination and reusing. Science Data Bank (ScienceDB) is a public, general-purpose data repository aiming to provide data services (e.g. data acquisition, long-term preservation, publishing, sharing and access) for researchers, research projects/teams, journals, institutions, universities, etc. It supports a variety of data acquisition and data licenses. ScienceDB is dedicated to promoting data findable, citable and reusable on the prerequisite of protecting the rights and interests of data owners and it is built and operated by Computer Network Information Center, Chinese Academy of Sciences.
     - [中国科学数据](http://www.csdata.org/) : 《中国科学数据（中英文网络版）》（China Scientific Data）（CN11-6035/N，ISSN 2096-2223）是目前中国唯一的专门面向多学科领域科学数据出版的学术期刊，作为国家网络连续型出版物的首批试点之一，由中国科学院主管，中国科学院计算机网络信息中心和ISC CODATA中国全国委员会合办，国家科技基础条件平台中心、中国科学院网络安全和信息化领导小组办公室指导，国内外公开发行，中英文，季刊。 中国科学引文数据库（CSCD）来源期刊，中国科技核心期刊 ，收录于中国科协高质量科技期刊分级目录。
     - [飞桨AI Studio](https://aistudio.baidu.com/aistudio/datasetoverview) : 飞桨AI Studio开放数据集。
     - [极市开发者平台](https://www.cvmart.net/dataSets) : 极市开发者平台开放数据集。
     - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets. 
+
+
+  - ### Tools
+
+
+    - #### Data Annotation
+
+      - [Label Studio](https://github.com/heartexlabs/label-studio) <img src="https://img.shields.io/github/stars/heartexlabs/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+
+      - [LabelImg](https://github.com/heartexlabs/labelImg) <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
+
+      - [labelme](https://github.com/wkentaro/labelme) <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).  
+
+      - [AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) <img src="https://img.shields.io/github/stars/AlexeyAB/Yolo_mark?style=social"/> : GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
+
+      - [Cartucho/OpenLabeling](https://github.com/Cartucho/OpenLabeling) <img src="https://img.shields.io/github/stars/Cartucho/OpenLabeling?style=social"/> : Label images and video for Computer Vision applications. 
+
+      - [CVAT](https://github.com/cvat-ai/cvat) <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale. 
+
+      - [VoTT](https://github.com/Microsoft/VoTT) <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.  
+
+      - [WangRongsheng/KDAT](https://github.com/WangRongsheng/KDAT) <img src="https://img.shields.io/github/stars/WangRongsheng/KDAT?style=social"/> : 一个专为视觉方向目标检测全流程的标注工具集，全称：Kill Object Detection Annotation Tools。 
+
+      - [Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) <img src="https://img.shields.io/github/stars/ryouchinsa/Rectlabel-support?style=social"/> : RectLabel - An image annotation tool to label images for bounding box object detection and segmentation.  
+
+      - [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) <img src="https://img.shields.io/github/stars/cnyvfang/labelGo-Yolov5AutoLabelImg?style=social"/> : 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕一个基于labelImg及YOLOV5的图形化半自动标注工具。
+
+      - [CVUsers/Auto_maker](https://github.com/CVUsers/Auto_maker) <img src="https://img.shields.io/github/stars/CVUsers/Auto_maker?style=social"/> : 深度学习数据自动标注器开源 目标检测和图像分类（高精度高效率）。
+
+      - [DarkLabel](https://github.com/darkpgmr/DarkLabel) <img src="https://img.shields.io/github/stars/darkpgmr/DarkLabel?style=social"/> : Video/Image Labeling and Annotation Tool.
+
+      - [MyVision](https://github.com/OvidijusParsiunas/myvision) <img src="https://img.shields.io/github/stars/OvidijusParsiunas/myvision?style=social"/> : Computer vision based ML training data generation tool 🚀
+
+      - [wufan-tb/AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg) <img src="https://img.shields.io/github/stars/wufan-tb/AutoLabelImg?style=social"/> : auto-labelimg based on yolov5, with many other useful tools. AutoLabelImg 多功能自动标注工具。
+
+      - [MrZander/YoloMarkNet](https://github.com/MrZander/YoloMarkNet) <img src="https://img.shields.io/github/stars/MrZander/YoloMarkNet?style=social"/> : Darknet YOLOv2/3 annotation tool written in C#/WPF.
+
+      - [mahxn0/Yolov3_ForTextLabel](https://github.com/mahxn0/Yolov3_ForTextLabel) <img src="https://img.shields.io/github/stars/mahxn0/Yolov3_ForTextLabel?style=social"/> : 基于yolov3的目标/自然场景文字自动标注工具。
+
+      - [MNConnor/YoloV5-AI-Label](https://github.com/MNConnor/YoloV5-AI-Label) <img src="https://img.shields.io/github/stars/MNConnor/YoloV5-AI-Label?style=social"/> : YoloV5 AI Assisted Labeling. 
+
+      - [LILINOpenGitHub/Labeling-Tool](https://github.com/LILINOpenGitHub/Labeling-Tool) <img src="https://img.shields.io/github/stars/LILINOpenGitHub/Labeling-Tool?style=social"/> : Free YOLO AI labeling tool. YOLO AI labeling tool is a Windows app for labeling YOLO dataset. 
+
+      - [whs0523003/YOLOv5_6.1_autolabel](https://github.com/whs0523003/YOLOv5_6.1_autolabel) <img src="https://img.shields.io/github/stars/whs0523003/YOLOv5_6.1_autolabel?style=social"/> : YOLOv5_6.1 自动标记目标框。 
+
+      - [2vin/PyYAT](https://github.com/2vin/PyYAT) <img src="https://img.shields.io/github/stars/2vin/PyYAT?style=social"/> : Semi-Automatic Yolo Annotation Tool In Python. 
+
+      - [AlturosDestinations/Alturos.ImageAnnotation](https://github.com/AlturosDestinations/Alturos.ImageAnnotation) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.ImageAnnotation?style=social"/> : A collaborative tool for labeling image data for yolo.
+
+      - [stephanecharette/DarkMark](https://github.com/stephanecharette/DarkMark) <img src="https://img.shields.io/github/stars/stephanecharette/DarkMark?style=social"/> : Marking up images for use with Darknet.
+
+      - [2vin/yolo_annotation_tool](https://github.com/2vin/yolo_annotation_tool) <img src="https://img.shields.io/github/stars/2vin/yolo_annotation_tool?style=social"/> : Annotation tool for YOLO in opencv.
+
+      - [sanfooh/quick_yolo2_label_tool](https://github.com/sanfooh/quick_yolo2_label_tool) <img src="https://img.shields.io/github/stars/sanfooh/quick_yolo2_label_tool?style=social"/> : yolo快速标注工具 quick yolo2 label tool.
+
+      - [folkien/yaya](https://github.com/folkien/yaya) <img src="https://img.shields.io/github/stars/folkien/yaya?style=social"/> : YAYA - Yet annother YOLO annoter for images (in QT5). Support yolo format, image modifications, labeling and detecting with previously trained detector.
+
+      - [pylabel-project/pylabel](https://github.com/pylabel-project/pylabel) <img src="https://img.shields.io/github/stars/pylabel-project/pylabel?style=social"/> : Python library for computer vision labeling tasks. The core functionality is to translate bounding box annotations between different formats-for example, from coco to yolo.
+
+
+
+    - #### Data Augmentation
+
+      - [Albumentations](https://github.com/albumentations-team/albumentations) <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social"/> : Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. "Albumentations: Fast and Flexible Image Augmentations". (**[Information 2020](https://www.mdpi.com/2078-2489/11/2/125)**)
+
+      - [doubleZ0108/Data-Augmentation](https://github.com/doubleZ0108/Data-Augmentation) <img src="https://img.shields.io/github/stars/doubleZ0108/Data-Augmentation?style=social"/> : General Data Augmentation Algorithms for Object Detection(esp. Yolo). 
+
+
+
 
 
 
@@ -75,6 +150,9 @@
     - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) : "The Pascal Visual Object Classes Challenge: A Retrospective". (**[IJCV 2015](https://link.springer.com/article/10.1007/s11263-014-0733-5)**)
 
     - [Objects365](http://www.objects365.org/overview.html) : "Objects365: A Large-scale, High-quality Dataset for Object Detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.html)**)
+
+    - [V3Det](The dataset will be publicly available by June 2023.) : "V3Det: Vast Vocabulary Visual Detection Dataset". (**[arXiv 2023](https://arxiv.org/abs/2304.03752)**)
+
 
   - ### Object Recognition Datasets
 
@@ -295,3 +373,18 @@
     - [IJB-C](https://www.nist.gov/programs-projects/face-challenges) : "IARPA Janus Benchmark - C: Face Dataset and Protocol". (**[ICB 2018](https://ieeexplore.ieee.org/abstract/document/8411217)**)
 
     - [VGGFace2]() : "VGGFace2: A Dataset for Recognising Faces across Pose and Age". (**[FG 2018](https://ieeexplore.ieee.org/abstract/document/8373813)**)
+
+
+
+
+
+
+## Blogs
+
+  - 微信公众号「PandaCVer」
+    - [2022-11-01, 目标检测算法——行人检测&人群计数数据集汇总(附下载链接)](https://mp.weixin.qq.com/s/8eDJ86rPA-0cWnLQKHxfjw)
+    - [2022-11-21, 目标检测算法——工业缺陷数据集汇总1（附下载链接）](https://mp.weixin.qq.com/s/oRmPDF1YhIqYYdrgU7sTUQ)
+    - [2022-12-01, 目标检测算法——图像分类开源数据集汇总（附下载链接）](https://mp.weixin.qq.com/s/9tGzWDAxp--42ofmKLlJRg)
+  - 微信公众号「自动驾驶之心」
+    - [2023-03-27, 目标跟踪方向开源数据集资源汇总](https://mp.weixin.qq.com/s/dCwtc-DI0KaPB4meJqewwA)
+    - [2023-04-12, 包罗万象！V3Det：1.3W类全新目标检测数据集（港中文&上海AI Lab）](https://mp.weixin.qq.com/s/A-4ze7B3yQ-AYCe0DgHv-A)
